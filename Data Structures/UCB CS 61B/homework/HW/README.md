@@ -1,1 +1,1 @@
-the file is not complete, please use the .zip.
+the folders are not complete, please use the .zip.
